@@ -30,7 +30,6 @@ using namespace std;
  */
 JNIEnv* create_vm(JavaVM **jvm);
 
-
 /**
  * Calling Java method.
  */
